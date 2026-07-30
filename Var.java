@@ -9,6 +9,14 @@ boolean student = true;
 System.out.println(age);
 System.out.println(name);
 System.out.println(cgpa);
- 
+//type casting 
+int num = 15;
+double dnum = num;
+
+double mydob = 7.8989d;
+int myint = (int ) mydob;
+ System.out.println(num);
+ System.out.println(dnum);
+ System.out.println(myint);
 }
 }
